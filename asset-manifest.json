@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TxtReDefine-React/static/css/main.e6c13ad2.css",
+    "main.js": "/TxtReDefine-React/static/js/main.f612c728.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/TxtReDefine-React/static/js/787.3bf0dcc2.chunk.js",
+    "index.html": "/TxtReDefine-React/index.html",
+    "main.e6c13ad2.css.map": "/TxtReDefine-React/static/css/main.e6c13ad2.css.map",
+    "main.f612c728.js.map": "/TxtReDefine-React/static/js/main.f612c728.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/TxtReDefine-React/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f612c728.js"
+  ]
+}
